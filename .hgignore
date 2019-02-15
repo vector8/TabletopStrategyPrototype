@@ -1,0 +1,7 @@
+syntax: glob
+TabletopStrategyPrototype/.vs/
+*.csproj
+TabletopStrategyPrototype/Library/
+TabletopStrategyPrototype/Logs/
+TabletopStrategyPrototype/obj/
+TabletopStrategyPrototype/TabletopStrategyPrototype.sln
